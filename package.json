@@ -38,7 +38,7 @@
     "glob": "8.0.3",
     "got": "11.8.5",
     "inquirer": "8.2.4",
-    "inquirer-datepicker-prompt": "0.4.2",
+    "inquirer-datepicker-prompt": "0.4.3",
     "inquirer-search-checkbox": "1.0.0",
     "listr": "0.14.3",
     "lodash": "4.17.21",
